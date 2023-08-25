@@ -16,7 +16,7 @@
  */
 
 #ifndef _KERNEL_H_
-#define _KERNEL_H_
+#define _KERNEL_H
 
 #include <iostream>
 #include <cuda.h>
